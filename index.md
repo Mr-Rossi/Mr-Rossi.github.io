@@ -1,7 +1,7 @@
 ## Who is that guy?
 I'm Lukas Rosenberger, a [MultiMediaTechnology](https://www.fh-salzburg.ac.at/en/study/design-media-and-arts/multimediatechnology-master) master student majoring in Game and Mixed Reality Engineering at [FH Salzburg](http://www.fh-salzburg.ac.at/). I'm a huge fan of video games and am also currently studying Mixed Reality Technologies as secondary subject.
 
-### Incendarius
+### Incendarius (2020)
 Incendarius is a first person puzzle game with stealth and horror elements.
 Experience the nightmares of Cayn, a troubled fire mage with a dark history.
 Solve puzzles and hide from enemies, using the one thing you fear most (fire) to your advantage.
@@ -16,7 +16,7 @@ I took the role of AI developer and Gameplay Programmer on the project. My respo
 Incendarius was built using Unreal Engine 4 (UE4), using a combination of C++ and Blueprints.
 You can check out our release on [itch.io](https://simonst0.itch.io/incendarius) or our [page in the MMT portfolio](https://portfolio.multimediatechnology.at/projects/2020-incendarius)!
 
-### Major League Gladiators
+### Major League Gladiators (2017)
 Major League Gladiators is a 2-player co-op shooter in VR. The players take control of two classes, the Tank and the DPS, facing off against waves of enemies in a tron-styled arena. Major League Gladiators attempts to use the immersive capabilities of Roomscale VR to create action packed combat as well as true cooperation between players. Players will have to attempt to survive as many waves of enemies as possible by synergistically using their abilities as well as keeping each other’s health and ammunition up. In Major League Gladiators we concentrate on the coop experience. We want the players to really play together. They attack together and they support each other. Lone wolves won’t survive!
 
 This is the final project of my team of five bachelor degree students of MultiMediaTechnology (MMT) at University of Applied Sciences Salzburg (FHS). We also cooperated with students from MultiMediaArt (MMA) for our asset creation. The project started in January 2017 and was completed in June 2017.
@@ -32,13 +32,13 @@ Major League Gladiators was built using Unreal Engine 4 (UE4) and supports all c
 ![Major League Gladiators](./img/mlg.png)  
 _A screenshot of Major League Gladiators_
 
-### Gravity Ruckus
+### Gravity Ruckus (2016)
 A four player, local multiplayer FPS where players can flip their gravity by 90° in any direction at any time. The game was built by two of my colleagues and me during our fourth bachelor semester using Unity. The full source can be found [here](https://github.com/in0x/Gravity_Ruckus).
 
 ![Gravity Ruckus](./img/gr.png)  
 _A screenshot of Gravity Ruckus_
 
-### Helmet Squishers
+### Helmet Squishers (2016)
 
 Helmet Squishers is a 2D platform fighter for 2 players developed in 2 days for a Game Jam at the FH Salzburg under the motto 'It's not a bug, it's a feature'. The goal of the game is to squish your enemy three times by jumping on their head.
 
@@ -56,7 +56,7 @@ _A screenshot of Helmet Squishers_
 [Download Link for Helmet Squishers on itch.io](https://in0x.itch.io/helmet-squishers)
 
 
-### Reality Ruckus
+### Reality Ruckus (2016)
 As part of our MMP2a (MultiMediaProject) I and 2 of my fellow students developed a 2D tactical turn-based squad fighter called Realtity Ruckus.
 
 In Reality Ruckus, you are a hero who has been chosen to restore order to time and space following a catastrophic event which collapsed multiple realites into each other. Along the way you will team up with other heroes to face the various different enemies.
@@ -70,7 +70,7 @@ _A screenshot of a combat in Reality Ruckus' Cthulhu setting_
 
 [Project page for Reality Ruckus on the MMT/MMA portfolio (with download link!)](https://portfolio.multimediaart.at/projects/2016-reality-ruckus)
 
-### Yet Another Artillery Game
+### Yet Another Artillery Game (2015)
 This is the game I made for my second semester multi media project (MMP). It's a basic Scorched Earth clone with different weapons and up to 8 player hotseat multiplayer.
 
 The goal is to shoot the other tanks, taking the ballistic trajectory of the projectiles and the wind into account. Using the limited movement and the destructible environment to your advantage will also ensure that you will be the last tank standing.
@@ -78,7 +78,7 @@ The goal is to shoot the other tanks, taking the ballistic trajectory of the pro
 ![YAAC](./img/yaac.png)  
 _A screenshot of Yet Another Artillery Game_
 
-### [Accelerator](./accelerator)
+### [Accelerator](./accelerator) (2014)
 
 (works best in Chrome)
 
