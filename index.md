@@ -17,7 +17,8 @@ Incendarius was built using Unreal Engine 4 (UE4), using a combination of C++ an
 You can check out our release on [itch.io](https://simonst0.itch.io/incendarius) or our [page in the MMT portfolio](https://portfolio.multimediatechnology.at/projects/2020-incendarius)!
 
 ### Major League Gladiators (2017)
-[![Major League Gladiators Youtube Trailer](http://img.youtube.com/vi/gjY6El749YM/0.jpg)](http://www.youtube.com/watch?v=gjY6El749YM)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjY6El749YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Major League Gladiators is a 2-player co-op shooter in VR. The players take control of two classes, the Tank and the DPS, facing off against waves of enemies in a tron-styled arena. Major League Gladiators attempts to use the immersive capabilities of Roomscale VR to create action packed combat as well as true cooperation between players. Players will have to attempt to survive as many waves of enemies as possible by synergistically using their abilities as well as keeping each other’s health and ammunition up. In Major League Gladiators we concentrate on the coop experience. We want the players to really play together. They attack together and they support each other. Lone wolves won’t survive!
 
