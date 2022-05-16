@@ -1,5 +1,5 @@
 ## Who is that guy?
-I'm Lukas Rosenberger, a [MultiMediaTechnology](https://www.fh-salzburg.ac.at/en/study/design-media-and-arts/multimediatechnology-master) master student majoring in Game and Mixed Reality Engineering at [FH Salzburg](http://www.fh-salzburg.ac.at/). I'm a huge fan of video games and am also currently studying Mixed Reality Technologies as secondary subject.
+I'm Lukas Rosenberger, a recent [MultiMediaTechnology](https://www.fh-salzburg.ac.at/en/study/design-media-and-arts/multimediatechnology-master) master's degree graduate majoring in Game and Simulation Engineering at [FH Salzburg](http://www.fh-salzburg.ac.at/). I'm passionate about AI programming and a huge fan of games of all kinds.
 
 ### Incendarius (2020)
 Incendarius is a first person puzzle game with stealth and horror elements.
