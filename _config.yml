@@ -6,7 +6,7 @@ theme: jekyll-theme-hacker
 github:
   cv_url: cv.pdf
   curr_url: https://www.fh-salzburg.ac.at/en/studium/design-medien-und-kunst/master-multimediatechnology/curriculum
-  email_url: mailto:lrosenberger.mmt-m2018@fh-salzburg.ac.at
+  email_url: mailto:lukas.rosenberger@hotmail.com
 
 gems:
   - jekyll-mentions
